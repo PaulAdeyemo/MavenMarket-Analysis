@@ -6,22 +6,20 @@ Maven Market is a multi-national grocery chain with locations in Canada, Mexico 
 
 The aim of this analysis is to help provide insights into the sales performance of Maven Market over the years. By analysing various aspects of the sales data to identify trends, make data driven recommendation, and gain a deeper understanding of the company.
 
-### Data Source
-
-The data set used for this analysis can be found [here].
-
 ### Tools
 
 - Excel - Data Cleaning
 - Power point -Visualisation Design
 - Power BI - Creating visualisation
 
-### Data Cleaning/Preparation
+### Tasks Performed through the entire workflow: 
 
-I performed the following task in the preparation phase;
 - Data loading and inspection.
 - Handling missing values.
 - Data Cleaning and formatting.
+- Building a relational model.
+- Adding calculated columns and measures.
+- Designing an interactive report.
 
 ### Exploratory Data Analysis
 1. What country had the highest Sales.
@@ -29,6 +27,18 @@ I performed the following task in the preparation phase;
 3. What product is most often returned.
 4. What customer Age group/Educational level buys most of the product.
 5. What membership segment of customer's buys the products the most.
+
+### Results/Findings
+The Analysis results are summarised as follows:
+1. Customer with Bronze Membership card generated the highest Revenue with percentage of  51.91%. While customers with Silver membership Card contributed the lowest to the Revenue with percentage of 8.36%.
+2. Customer with age Range 61-90 years old generated the highest Revenue while customers within 41-60 years contributed the least.
+3. Recyclable Products had the most transaction with 61.28% in Revenue while low fat products contributed 38.74%.
+
+### Recommendations
+Based on my Analysis, i'd recommend the following actions;
+1. Focus should be placed more on advertising our products in media houses, newspaper, Radio/TV stations and especially on the internet. This will boost our Revenue and number of customers who are graduates and are mostly Tech savvy.
+2. 'd recommend customers with highest transactions be informed about other products in other to increase our sales.
+3. In other to help with global warming, I'd recommend all products be made recyclable and eco friendly.
 
 
 
