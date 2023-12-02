@@ -40,5 +40,22 @@ Based on my Analysis, i'd recommend the following actions;
 2. 'd recommend customers with highest transactions be informed about other products in other to increase our sales.
 3. In other to help with global warming, I'd recommend all products be made recyclable and eco friendly.
 
+### Screenshots of Power BI Maven Market Final Report :-
+
+## Model View
+![RELATIONAL PAGE](https://github.com/PaulAdeyemo/MavenMarket-Analysis/assets/151366138/0ee93b07-9ab8-4c5f-a1e6-9141ae0eb49e)
+
+## Customer overview
+![CUSTOMER PAGE](https://github.com/PaulAdeyemo/MavenMarket-Analysis/assets/151366138/5a6fcb53-48d7-4623-a6ad-4e20c72d1ca4)
+
+## Product Overview
+![PRODUCT PAGE](https://github.com/PaulAdeyemo/MavenMarket-Analysis/assets/151366138/17be203f-90ce-44ef-bfe4-1719293d4081)
+
+## Store Overview
+![STORE PAGE](https://github.com/PaulAdeyemo/MavenMarket-Analysis/assets/151366138/1a60a9c0-864f-418d-a4f2-24d1866f345e)
+
+
+
+
 
 
